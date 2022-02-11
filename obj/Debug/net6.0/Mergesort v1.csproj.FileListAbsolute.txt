@@ -1,0 +1,15 @@
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\Mergesort v1.exe
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\Mergesort v1.deps.json
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\Mergesort v1.runtimeconfig.json
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\Mergesort v1.dll
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\ref\Mergesort v1.dll
+C:\Users\kevin\Desktop\Mergesort v1\bin\Debug\net6.0\Mergesort v1.pdb
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.dll
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\ref\Mergesort v1.dll
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.pdb
+C:\Users\kevin\Desktop\Mergesort v1\obj\Debug\net6.0\Mergesort v1.genruntimeconfig.cache
